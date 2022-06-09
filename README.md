@@ -1,10 +1,11 @@
 
 Hi, I’m Daniel Certuche
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I’m interested in Data Science and sofware develoment 
+
+- 🌱 I’m currently learning JAVA
+
+- 📫 How to reach me: danielcert3@gmail.com 
 
 <!---
 danielhcertuche/danielhcertuche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
