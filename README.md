@@ -1,7 +1,7 @@
 
 Hi, I’m Daniel Certuche
 
-I’m interested in Data Science and sofware develoment 
+I’m interested in Data Science and software develoment 
 
 - 🌱 I’m currently learning JAVA
 
