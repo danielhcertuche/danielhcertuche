@@ -7,7 +7,7 @@ I’m interested in Data Science and software develoment
 
 - 📫 How to reach me: danielcert3@gmail.com
 
-- 🔗 [Visit my portfolio here](https://danielhcertuche.github.io/portfolio)
+- 🔗 [Visit my page here](https://danielhcertuche.github.io/portfolio)
 
 I’m always open to new opportunities where I can contribute my skills and grow professionally.
 
