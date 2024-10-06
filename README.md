@@ -5,7 +5,11 @@ I’m interested in Data Science and software develoment
 
 - 🌱 I’m currently learning JAVA
 
-- 📫 How to reach me: danielcert3@gmail.com 
+- 📫 How to reach me: danielcert3@gmail.com
+
+-🔗 [Visit my portfolio here](https://danielhcertuche.github.io/portfolio)
+
+I’m always open to new opportunities where I can contribute my skills and grow professionally.
 
 <!---
 danielhcertuche/danielhcertuche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
